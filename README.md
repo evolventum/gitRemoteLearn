@@ -4,4 +4,4 @@
 here:
 git remote learning
 
-expierencing with
+expierencing with git commands
